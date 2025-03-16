@@ -2,7 +2,7 @@ import "./index.css";
 import { APITester } from "./APITester";
 import { Card, CardContent } from "@/components/ui/card";
 
-import logo from "./logo.svg";
+import logo from "./assets/logo/bun.svg";
 import figmaLogo from "./assets/logo/figma.png";
 
 export function App() {
